@@ -1,0 +1,7 @@
+streanlit
+langchain
+google-generativeains
+python-dotenv
+langchain-community
+langchain-google-generativeains
+pytpdf
